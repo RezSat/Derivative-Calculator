@@ -1,5 +1,5 @@
 # Derivative-Calculator
-A library which calculates dirivatives of any function, moreover, it is capable of writing step by step calculation in LaTex format
+A library which calculates derivatives of any function, moreover, it is capable of writing step by step calculation in LaTex format
 
 ## Before launch
 This project uses some utils to visualize the results:
